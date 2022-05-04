@@ -1,0 +1,49 @@
+html,body{
+    margin:0;
+    padding:0;
+}
+main{
+    background-color: hsl(212, 45%, 89%);
+    width: 100vw;
+    height: 100vh;
+    padding-top: 50%;
+}
+.level1{
+    border-radius: 15px;
+    background-color: white;
+    width: 300px;
+    padding: 10px 10px 30px 10px;
+    margin: auto;
+}
+.box1{
+    background-color: white;
+    width: 300px;
+}
+.box2{
+    width: 300px;
+}
+ .box3{
+     width: 280px;
+     padding: 0 8px 0 8px;
+}    
+.box4{
+    padding: 15px  0px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 800;
+    width: 290px;
+    color: hsl(218, 44%, 22%);
+}
+.box5{
+    text-align: center;
+    color: hsl(220, 15%, 55%);
+    font-size: 20px;
+    width: 290px;
+
+}
+#qr{
+    border-radius: 15px;
+
+    width: 300px;
+
+} 
